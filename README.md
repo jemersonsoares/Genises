@@ -1,4 +1,4 @@
-# Jogo estilo Gênesis 🙃
+# Jogo estilo Gênesis
 
 O objetivo é fazer um jogo estilo Gênesis da forma mais simples, sem muitos controles.
 A ideia é apenas exercitar alguns comandos de JavaScript.
@@ -12,4 +12,4 @@ A ideia é apenas exercitar alguns comandos de JavaScript.
 
 
 
-# Genises
+
